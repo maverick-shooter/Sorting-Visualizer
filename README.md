@@ -8,6 +8,8 @@ This project is a Web Visualization tool for sorting algorithms.
 - Quick Sort
 - Merge Sort
 
+[Link](https://maverick-shooter.github.io/Sorting-Visualizer/)
+
 ## Screenshots
 ![Screenshot 2022-05-18 211607](https://user-images.githubusercontent.com/76998222/169091787-288388e2-cc80-4162-b990-898e651c4ee8.png)
 ![Screenshot 2022-05-18 212319](https://user-images.githubusercontent.com/76998222/169091781-f647cb56-2a54-4029-9769-7bc6b37ddc95.png)
